@@ -270,11 +270,17 @@ a:visited {
     margin-top: 2rem;
     background-color: #415A77;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
 }
 
 .bottombanner a {
     color: #E0E1DD;
     font-weight: 500;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
 }
